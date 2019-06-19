@@ -1,0 +1,45 @@
+.gem
+{
+    width: 100px;
+    height: 100px;
+}
+
+h1
+{
+    font-size: 46px;
+}
+body
+{
+    background-image: url("https://static.vecteezy.com/system/resources/previews/000/401/907/non_2x/vector-background-wallpaper-with-polygons-in-gradient-colors.jpg");
+}
+#buttonSection {
+    padding: 0px;
+    width: 50%;
+    height:100px;
+	padding-top: 50px;
+	padding-bottom: 25px;
+}
+
+#button-1
+{
+    width: 100px;
+    height:100px; 
+}
+
+#button-2
+{
+    width: 100px;
+    height:100px; 
+}
+
+#button-3
+{
+    width: 100px;
+    height:100px; 
+}
+
+#button-4
+{
+    width: 100px;
+    height:100px; 
+}
